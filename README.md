@@ -1,1 +1,0 @@
-In my first major assignment for The Odin Project, I utilized HTML to create a website that contains recipes for three different desserts. I practiced using headings, unordered and ordered lists, and commiting to git.
